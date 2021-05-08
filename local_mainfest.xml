@@ -4,8 +4,8 @@
         <remote  name="flashokiller"
                 fetch="https://github.com/flashokiller" />
 
-        <project path="device/xiaomi/ysl" name="android_device_xiaomi_ysl" remote="Dhruv" revision="11" clone-depth="1" />
-        <project path="kernel/xiaomi/ysl" name="android_kernel_xiaomi_ysl" remote="Dhruv" revision="eleven" clone-depth="1" />
-        <project path="vendor/xiaomi/ysl" name="" remote="Dhruv" revision="11" clone-depth="1" />
+        <project path="device/xiaomi/ysl" name="android_device_xiaomi_ysl" remote="flashokiller" revision="r11.0" clone-depth="1" />
+        <project path="kernel/xiaomi/ysl" name="android_kernel_xiaomi_ysl" remote="flashokiller" revision="eleven" clone-depth="1" />
+        <project path="vendor/xiaomi/ysl" name="android_vendor_xiaomi_ysl" remote="flashokiller" revision="r11.0" clone-depth="1" />
 
 </manifest>
