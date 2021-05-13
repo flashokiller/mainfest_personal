@@ -9,7 +9,6 @@
         <project path="vendor/xiaomi/ysl" name="android_vendor_xiaomi_ysl" remote="flashokiller" revision="r11.0" clone-depth="1" />
 
           <!-- remove -->
-          <remove-project name="vendor/codeaurora/telephony"/>
           <remove-project name="hardware/qcom-caf/msm8996-ysl/media"/>
           <remove-project name="hardware/qcom-caf/msm8996-ysl/audio"/>
           <remove-project name="hardware/qcom-caf/msm8996-ysl/display"/>
