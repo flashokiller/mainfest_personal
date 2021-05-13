@@ -1,5 +1,6 @@
-#!/bin/bash
-
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
 alias gcl='git clone'
 
 cd ../../hardware/qcom-caf/msm8996-ysl/ && gcl --single-branch https://github.com/Jabiyeff/android_hardware_qcom_media  media && gcl --single-branch https://github.com/Jabiyeff/android_hardware_qcom_display display &&  gcl  https://github.com/LineageOS/android_hardware_qcom_audio --single-branch -b lineage-18.1-caf-msm8996 audiorm -rf audio media display &&  rm -rf vendor/codeauroa/telephony && gcl https://github.com/wave-project/vendor_codeaurora_telephony --depth=1 --single-branch vendor/codeaurora/telephony/
+</manifest>
