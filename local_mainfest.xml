@@ -10,5 +10,5 @@
 
           <!-- remove -->
           <remove-project name="vendor/codeaurora/telephony"/>
+          <remove-project name="hardware/qcom-caf/mam8996-ysl/media"/>
 </manifest>
-
