@@ -13,7 +13,7 @@
     <remove-project name="android_hardware_qcom_audio" />
     <remove-project name="android_hardware_qcom_display" />
     <remove-project name="android_hardware_qcom_media" />
-    <project path="hardware/qcom-caf/msm8996/display" name="android_hardware_qcom_display" remote="jebiyeff" revision="caf-msm8996-r" clone-depth="1" />
-    <project path="hardware/qcom-caf/msm8996/media" name="android_hardware_qcom_media" remote="jebiyeff" revision="caf-msm8996-r" clone-depth="1" />
+    <project path="hardware/qcom-caf/msm8996-ysl/display" name="android_hardware_qcom_display" remote="jebiyeff" revision="caf-msm8996-r" clone-depth="1" />
+    <project path="hardware/qcom-caf/msm8996-ysl/media" name="android_hardware_qcom_media" remote="jebiyeff" revision="caf-msm8996-r" clone-depth="1" />
     <project path="vendor/codeaurora/telephony" name="vendor_codeaurora_telephony" remote="wave" revision="r" clone-depth="1" />
 </manifest>
