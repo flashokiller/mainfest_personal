@@ -8,7 +8,7 @@
         <project path="kernel/xiaomi/ysl" name="flasho_Ysl" remote="flashokiller" revision="MaD" clone-depth="1" />
         <project path="vendor/xiaomi/ysl" name="android_vendor_xiaomi_ysl" remote="flashokiller" revision="r11.0" clone-depth="1" />
 
-          <--remove-->
+# #         <--remove-->
           <remove-project name="vendor/codeaurora/telephony"/>
 </manifest>
 
