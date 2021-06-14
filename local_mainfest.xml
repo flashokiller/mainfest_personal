@@ -6,7 +6,7 @@
         <remote  name="stormbreaker-project"
                 fetch="https://gitHub.com/stormbreaker-project" />
 
-        <project path="device/xiaomi/ysl" name="android_device_xiaomi_ysl" remote="flashokiller" revision="r11.0" clone-depth="1" />
+        <project path="device/xiaomi/ysl" name="device_xiaomi_ysl" remote="flashokiller" revision="r11.0" clone-depth="1" />
         <project path="kernel/xiaomi/ysl" name="kernel_xiaomi_ysl" remote="stormbreaker-project" revision="eleven" clone-depth="1" />
         <project path="vendor/xiaomi/ysl" name="android_vendor_xiaomi_ysl" remote="flashokiller" revision="r11.0" clone-depth="1" />
 
